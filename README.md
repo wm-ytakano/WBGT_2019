@@ -14,7 +14,7 @@ python daily_maximum.py
 gnuplot draw_daily.plt
 ```
 
-![2019年鳥取の日最高WBGT](image/wbgt_daily_69112_2019.png)
+![2019年鳥取の日最高WBGT](image/wbgt_daily_69122_2019.png)
 
 ## 上位10地点のWBGT超過日数
 
